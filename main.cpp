@@ -30,5 +30,5 @@ void passbyReference(int &b) //int &b stands for the reference
 }
 
 
-//Reference type just refers to a variable.They even
-//point to the same memory location
+/*Reference type just refers to a variable.They even
+point to the same memory location*/
